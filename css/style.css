@@ -4515,6 +4515,41 @@ ul.dropdown ul ul {
     opacity: 0.8;
 }
 
+#readMore-button {
+    color: #fff;
+    border: 2px solid  #d29e18;
+    padding: 10px 26px;
+    margin-top: 0px;
+    font-size: 20px;
+    display: inline-block;
+    float: center;
+    font-weight: 300;
+    font-family: "Open Sans", sans-serif;
+    margin-right: 40px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+    cursor: pointer;
+    background-color: #fff;
+    color: #000;
+    margin-top: 5px;
+}
+
+#readMore-button:hover {
+    opacity: 1;
+    background-color: #d29e18;
+    color:#fff
+
+}
+
+
+#readMore-button .icon-shopping-cart {
+    margin-left: 15px !important;
+    padding-left: 15px;
+    border-left: 1px dotted #ccc;
+    opacity: 0.8;
+}
+
 
 /* All Room Type Wrap */
 
