@@ -6809,7 +6809,7 @@ ul.list.with-divider li {
 
 #footer-wrap a:hover {
     margin-top: 90px;
-    background-color: #677c8b;
+    /* background-color: #677c8b; */
     color: rgb(197, 197, 197);
     height: auto;
     font-weight: 300;
@@ -7035,8 +7035,8 @@ ul.list.with-divider li {
 #footer-social-wrap .icon-google-plus:hover,
 #footer-social-wrap .icon-linkedin:hover,
 #footer-social-wrap .icon-skype:hover,
-#footer-social-wrap .icon-instagram:hover,
-#footer-social-wrap .icon-facebook:hover {
+#footer-social-wrap .icon-instagram:hover
+ {
     opacity: 1;
 }
 
