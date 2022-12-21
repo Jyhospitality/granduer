@@ -2129,6 +2129,9 @@ a .icon-flip-vertical:before {
 .icon-facebook:before {
     content: "\f09a";
 }
+.icon-tripadvisor:before {
+    content: "\f262";
+}
 
 .icon-github:before {
     content: "\f09b";
@@ -6835,7 +6838,7 @@ ul.list.with-divider li {
 
 #footer-wrap a {
     text-decoration: none;
-    margin-top: 90px;
+    /* margin-top: 90px; */
     background-color: #d29e18;
     color: #fff;
     height: auto;
@@ -6843,7 +6846,7 @@ ul.list.with-divider li {
 }
 
 #footer-wrap a:hover {
-    margin-top: 90px;
+    /* margin-top: 90px; */
     /* background-color: #677c8b; */
     color: rgb(197, 197, 197);
     height: auto;
